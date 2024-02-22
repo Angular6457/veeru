@@ -1,0 +1,16 @@
+.brand{
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+button{
+    width: 70px;
+    height: 44px;
+}
